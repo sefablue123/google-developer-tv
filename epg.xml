@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="google-dev-tv">
+    <display-name>Google Developer TV</display-name>
+  </channel>
+
+  <programme start="20261010000000 +0000"
+             stop="20261010003000 +0000"
+             channel="google-dev-tv">
+    <title>Google Developer TV - Test Broadcast</title>
+    <desc>HLS channel connectivity test.</desc>
+  </programme>
+
+  <programme start="20261010003000 +0000"
+             stop="20261010010000 +0000"
+             channel="google-dev-tv">
+    <title>Google Technology Programs</title>
+    <desc>Programming guide for Google and Android developer content.</desc>
+  </programme>
+</tv>
